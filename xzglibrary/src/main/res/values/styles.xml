@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainTab">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@drawable/selector_color_white_accent</item>
+        <item name="android:checked">false</item>
+        <!--<item name="android:background">@drawable/selector_color_transparent_bg</item>-->
+    </style>
+</resources>
